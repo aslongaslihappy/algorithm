@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="AHAPyQRtncF2UGEA-5q6">
-    <mxGraphModel dx="1430" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,6 +303,24 @@
             <mxPoint x="369.86" y="480" as="sourcePoint" />
             <mxPoint x="369.86" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YXs4LQtfpxjAGhwu3uiu-106" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YXs4LQtfpxjAGhwu3uiu-107" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YXs4LQtfpxjAGhwu3uiu-108" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YXs4LQtfpxjAGhwu3uiu-110" value="Job&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="160" y="173" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YXs4LQtfpxjAGhwu3uiu-111" value="Job&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="340" y="173" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YXs4LQtfpxjAGhwu3uiu-112" value="Job&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="520" y="173" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
