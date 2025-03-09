@@ -118,9 +118,6 @@
         <mxCell id="5JmAVNSWhE5RKQXvFqZS-59" value="C&lt;sub&gt;max&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Y6IMP4lMpB6kWeqc4Rq-1" value="工序编码： [2, 3, 1, 2, 1, 3]&#xa;机器编码： [2, 2, 1, 1, 1, 1]&#xa;加工时间编码： [4, 9, 6, 3, 5, 8]&#xa;agv编码： [1, 1, 2, 1, 2, 1, 2, 2, 1]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="780" width="210" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="2Y6IMP4lMpB6kWeqc4Rq-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6666;endSize=3;fillColor=#fad9d5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5JmAVNSWhE5RKQXvFqZS-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="600" as="sourcePoint" />
