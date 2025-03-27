@@ -28,7 +28,7 @@
         <mxCell id="nisyvm1sWn4LhIhgpAqg-7" value="&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;O&lt;sub&gt;21&lt;/sub&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontStyle=2;fontFamily=Times New Roman;fillColor=#C0E0DB;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="645" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nisyvm1sWn4LhIhgpAqg-8" value="&lt;sub&gt;&lt;span&gt;O&lt;sub&gt;12&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontStyle=2;fillColor=#e1d5e7;strokeColor=#8390CA;opacity=60;" parent="1" vertex="1">
+        <mxCell id="nisyvm1sWn4LhIhgpAqg-8" value="&lt;sub&gt;&lt;span&gt;O&lt;sub&gt;12&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;fontStyle=2;fillColor=#8390CA;strokeColor=#8390CA;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="351.5" y="645" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nisyvm1sWn4LhIhgpAqg-10" value="&lt;font&gt;O&lt;sub&gt;31&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#F7A7A6;strokeColor=#d79b00;fontStyle=2;fontSize=10;opacity=60;" parent="1" vertex="1">
