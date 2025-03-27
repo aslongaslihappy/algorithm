@@ -55,7 +55,7 @@
         <mxCell id="E1L25xM7XRbCpZ2n_CNu-4" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#8390CA;strokeColor=light-dark(#000000,#446E2C);strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="160" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E1L25xM7XRbCpZ2n_CNu-5" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#8390CA;strokeColor=light-dark(#000000,#446E2C);strokeWidth=1;fontFamily=Times New Roman;shadow=0;fillStyle=auto;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="E1L25xM7XRbCpZ2n_CNu-5" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#8390CA;strokeColor=light-dark(#000000,#446E2C);strokeWidth=1;fontFamily=Times New Roman;shadow=0;fillStyle=auto;gradientColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E1L25xM7XRbCpZ2n_CNu-6" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C0E0DB;strokeColor=light-dark(#000000,#446E2C);strokeWidth=1;fontFamily=Times New Roman;" vertex="1" parent="1">
