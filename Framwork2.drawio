@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yeMh2SfToaJHoROLjrMc-40" value="&amp;nbsp;adjustment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" parent="yeMh2SfToaJHoROLjrMc-39" vertex="1" connectable="0">
+        <mxCell id="yeMh2SfToaJHoROLjrMc-40" value="Adjustment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=12;" parent="yeMh2SfToaJHoROLjrMc-39" vertex="1" connectable="0">
           <mxGeometry x="0.9234" relative="1" as="geometry">
             <mxPoint x="27" y="1" as="offset" />
           </mxGeometry>
@@ -150,7 +150,7 @@
         <mxCell id="yeMh2SfToaJHoROLjrMc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="yeMh2SfToaJHoROLjrMc-51" target="yeMh2SfToaJHoROLjrMc-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yeMh2SfToaJHoROLjrMc-51" value="variable neighborhood search" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="yeMh2SfToaJHoROLjrMc-51" value="Variable neighborhood search" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="285" y="450" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
